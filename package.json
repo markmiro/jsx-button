@@ -1,0 +1,19 @@
+{
+  "name": "jsx-button",
+  "version": "1.0.0",
+  "description": "A test button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmiro/jsx-button.git"
+  },
+  "author": "Mark Miro <contact@markmiro.com> (https://markmiro.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markmiro/jsx-button/issues"
+  },
+  "homepage": "https://github.com/markmiro/jsx-button#readme"
+}
